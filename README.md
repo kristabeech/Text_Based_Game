@@ -1,1 +1,1 @@
-# Text_Based_Game
+Developed Python code for text-based adventure game where player must navigate between different rooms and gather all items before encountering the villain to win. Game design required input validation, debugging, and the Python script functions dictionary, loop, calls, and decision branching. 
